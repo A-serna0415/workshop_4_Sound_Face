@@ -65,7 +65,7 @@ function emotionColor() {
 ```
 
 
-### Demo
+### Demo video
 
 *https://youtu.be/8UZCHtpR-_Y*
 
