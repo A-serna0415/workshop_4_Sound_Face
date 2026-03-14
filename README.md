@@ -60,7 +60,7 @@ function emotionColor() {
 ```
 
 
-### Tech
+### Tech Stack
 - p5.js
 - ml5.js
 - p5.sound
@@ -68,6 +68,8 @@ function emotionColor() {
 
 
 ### Demo
+
+*https://youtu.be/8UZCHtpR-_Y*
 
 
 ### Requirements
