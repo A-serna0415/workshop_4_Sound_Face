@@ -12,6 +12,12 @@ Main Tech stack:
 - p5.js
 - p5.sound
 - ml5.js
+- Node.js
+
+Acknowledgments:
+
+- The based inspiration for this code was taken from the p5.js creator erikabulger in: https://editor.p5js.org/erikabulger/sketches
+- Sound-facial expression mapping and interactivity was made by myself taking the lab activities with p5.sound and translation of data from last term. 
 
 */
 
