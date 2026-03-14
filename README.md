@@ -5,6 +5,11 @@
 
 *While the project remains a prototype with limited functionality and interactivity, and its sound generation is still somewhat rudimentary, it establishes a promising framework. Future explorations could expand the sonic range, enable simultaneous responses to multiple faces, or extend the system to process video input.*
 
+### Tech Stack
+- p5.js
+- ml5.js
+- p5.sound
+- Node.js
 
 ### Arquitecture logic
 
@@ -58,13 +63,6 @@ function emotionColor() {
   return color(200); // in case the system doesn't recognise any
 }
 ```
-
-
-### Tech Stack
-- p5.js
-- ml5.js
-- p5.sound
-- Node.js
 
 
 ### Demo
