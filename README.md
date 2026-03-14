@@ -60,7 +60,7 @@ function emotionColor() {
 ```
 
 
-## Tech stack
+## Tech
 - p5.js
 - ml5.js
 - p5.sound
