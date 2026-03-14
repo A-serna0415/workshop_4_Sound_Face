@@ -5,13 +5,13 @@
 
 *While the project remains a prototype with limited functionality and interactivity, and its sound generation is still somewhat rudimentary, it establishes a promising framework. Future explorations could expand the sonic range, enable simultaneous responses to multiple faces, or extend the system to process video input.*
 
-### Tech Stack
+## Tech Stack
 - p5.js
 - ml5.js
 - p5.sound
 - Node.js
 
-### Arquitecture logic
+## Arquitecture logic
 
 *The architecture is designed around a **real-time feedback loop**: the webcam captures the user’s face, face landmarks are extracted and processed, and a small buffer of recent emotion detections is used to determine the dominant emotional state. Each emotion corresponds to a distinct musical scale, giving the system a semantic mapping between affective state and tonal palette.*
 
@@ -65,19 +65,19 @@ function emotionColor() {
 ```
 
 
-### Demo video
+## Demo Video
 
 *https://youtu.be/8UZCHtpR-_Y*
 
 
-### Requirements
+## Requirements
 
 - Web browser. **Please use Chrome or any other browser that is not Safari**.
 - WebCam permission.
 - Microphone input permission.
 
 
-### How to Run
+## How to Run
 
 *You can also download the repo and run it in your machine localy.*
 
