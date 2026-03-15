@@ -1,24 +1,5 @@
 /*
-
 Workshop 4: S0und_F4c3
-By Andrés Serna
-Last update: 13 March 2026
-
-Blurp: The core concept for this workshop is to turn the face into a sound instrument.
-Using ml5.js to detect face landmarks and expressions, I translate facial gestures
-into sound with p5.sound library.
-
-Main Tech stack:
-- p5.js
-- p5.sound
-- ml5.js
-- Node.js
-
-Acknowledgments:
-
-- The based inspiration for this code was taken from the p5.js creator erikabulger in: https://editor.p5js.org/erikabulger/sketches
-- Sound-facial expression mapping and interactivity was made by myself taking the lab activities with p5.sound and translation of data from last term. 
-
 */
 
 
