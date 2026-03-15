@@ -5,7 +5,7 @@ By Andrés Serna
 Last update: 13 March 2026
 
 Blurp: The core concept for this workshop is to turn the face into a sound instrument.
-Using ml5.js to detect face landmarks and expressions, we translate facial gestures
+Using ml5.js to detect face landmarks and expressions, I translate facial gestures
 into sound with p5.sound library.
 
 Main Tech stack:
