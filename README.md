@@ -1,6 +1,11 @@
 # :smile: :angry: :open_mouth: :fearful: :confounded: :neutral_face: :notes:
 # _04_S0und_F4c3
 
+### By Andrés Serna
+### 15 March 2026
+
+## Abstract
+
 *This is an interactive computer vision system developed with **p5.js**, **ml5.js**, and the **p5.sound** library. Its core concept is to translate human facial gestures into a sonic instrument. Leveraging the ml5.js API, the system detects faces through the webcam and captures the coordinates and distances of each facial landmark. These numerical measurements are then mapped into sound using the p5.sound library.*
 
 *While the project remains a prototype with limited functionality and interactivity, and its sound generation is still somewhat rudimentary, it establishes a promising framework. Future explorations could expand the sonic range, enable simultaneous responses to multiple faces, or extend the system to process video input.*
@@ -85,6 +90,12 @@ function emotionColor() {
 - Make sure you are in a space with good lighting.
 - Click screen to start/stop the sound.
 - Smile or open your mouth surprisingly to trigger a sound. Play with your gestures!
+
+## Acknowledgments
+
+- The based inspiration for this code was taken from the p5.js creator erikabulger in: https://editor.p5js.org/erikabulger/sketches
+- Chapter 10 in "The Nature of Code" by Daniel Shiffman about Neural Networks and uses for the ml5.js library.
+- Sound-facial expression mapping and interactivity was made by myself taking the lab activities with p5.sound and translation of data from last term.
 
 
 ### Links
